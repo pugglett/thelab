@@ -1,0 +1,349 @@
+body {background-color: #3e253c;}
+
+
+*{
+	margin:0;
+	padding:0;
+}
+
+
+
+
+#container{
+	width:604px;
+	height:453px;
+	position:relative;
+
+}
+
+#container .prevButton{
+	height:72px;
+	width:68px;
+	position:absolute;
+	background:url('img/buttons.png') no-repeat;
+	top:50%;
+	margin-top:-36px;
+	cursor:pointer;
+	z-index:2000;
+	background-position:left top;
+	left:0
+}
+
+#container .prevButton:hover{ background-position:left bottom;left:0;}
+
+#container .nextButton{
+	height:72px;
+	width:68px;
+	position:absolute;
+	background:url('img/buttons.png') no-repeat;
+	top:50%;
+	margin-top:-36px;
+	cursor:pointer;
+	z-index:2000;
+	background-position:right top;
+	right:0
+}
+
+#container .nextButton:hover{background-position:right bottom;right:0;}
+
+#container ul{
+	width:604px;
+	height:453px;
+	list-style:none outside none;
+	position:relative;
+	overflow:hidden;
+}
+
+#container li:first-child{
+	display:list-item;
+	position:absolute;
+}
+
+#container li{
+	position:absolute;
+	display:none;
+}
+
+/*************************************************
+		Second Slideshow
+************************************************/
+
+
+body {background-color: #3e253c;}
+
+
+*{
+	margin:0;
+	padding:0;
+}
+
+#container2{
+	width:604px;
+	height:453px;
+	position:relative;
+}
+
+#container2 .prevButton{
+	height:72px;
+	width:68px;
+	position:absolute;
+	background:url('img/buttons.png') no-repeat;
+	top:50%;
+	margin-top:-36px;
+	cursor:pointer;
+	z-index:2000;
+	background-position:left top;
+	left:0
+}
+
+#container2 .prevButton:hover{ background-position:left bottom;left:0;}
+
+#container2 .nextButton{
+	height:72px;
+	width:68px;
+	position:absolute;
+	background:url('img/buttons.png') no-repeat;
+	top:50%;
+	margin-top:-36px;
+	cursor:pointer;
+	z-index:2000;
+	background-position:right top;
+	right:0
+}
+
+#container2 .nextButton:hover{background-position:right bottom;right:0;}
+
+#container2 ul{
+	width:604px;
+	height:453px;
+	list-style:none outside none;
+	position:relative;
+	overflow:hidden;
+}
+
+#container2 li:first-child{
+	display:list-item;
+	position:absolute;
+}
+
+#container2 li{
+	position:absolute;
+	display:none;
+}
+
+/*************************************************
+		Third Slideshow
+************************************************/
+
+
+body {background-color: #3e253c;}
+
+
+*{
+	margin:0;
+	padding:0;
+}
+
+#container3{
+	width:604px;
+	height:453px;
+	position:relative;
+}
+
+#container3 .prevButton{
+	height:72px;
+	width:68px;
+	position:absolute;
+	background:url('img/buttons.png') no-repeat;
+	top:50%;
+	margin-top:-36px;
+	cursor:pointer;
+	z-index:2000;
+	background-position:left top;
+	left:0
+}
+
+#container3 .prevButton:hover{ background-position:left bottom;left:0;}
+
+#container3 .nextButton{
+	height:72px;
+	width:68px;
+	position:absolute;
+	background:url('img/buttons.png') no-repeat;
+	top:50%;
+	margin-top:-36px;
+	cursor:pointer;
+	z-index:2000;
+	background-position:right top;
+	right:0
+}
+
+#container3 .nextButton:hover{background-position:right bottom;right:0;}
+
+#container3 ul{
+	width:604px;
+	height:453px;
+	list-style:none outside none;
+	position:relative;
+	overflow:hidden;
+}
+
+#container3 li:first-child{
+	display:list-item;
+	position:absolute;
+}
+
+#container3 li{
+	position:absolute;
+	display:none;
+}
+
+/*************************************************
+		Fourth Slideshow
+************************************************/
+
+body {background-color: #3e253c;}
+
+
+*{
+	margin:0;
+	padding:0;
+}
+
+#container4{
+	width:604px;
+	height:453px;
+	position:relative;
+}
+
+#container4 .prevButton{
+	height:72px;
+	width:68px;
+	position:absolute;
+	background:url('img/buttons.png') no-repeat;
+	top:50%;
+	margin-top:-36px;
+	cursor:pointer;
+	z-index:2000;
+	background-position:left top;
+	left:0
+}
+
+#container4 .prevButton:hover{ background-position:left bottom;left:0;}
+
+#container4 .nextButton{
+	height:72px;
+	width:68px;
+	position:absolute;
+	background:url('img/buttons.png') no-repeat;
+	top:50%;
+	margin-top:-36px;
+	cursor:pointer;
+	z-index:2000;
+	background-position:right top;
+	right:0
+}
+
+#container4 .nextButton:hover{background-position:right bottom;right:0;}
+
+#container4 ul{
+	width:604px;
+	height:453px;
+	list-style:none outside none;
+	position:relative;
+	overflow:hidden;
+}
+
+#container4 li:first-child{
+	display:list-item;
+	position:absolute;
+}
+
+#container4 li{
+	position:absolute;
+	display:none;
+}
+
+/*************************************************
+		Fifth Slideshow
+************************************************/
+
+body {background-color: #3e253c;}
+
+
+*{
+	margin:0;
+	padding:0;
+}
+
+#container5{
+	width:604px;
+	height:453px;
+	position:relative;
+}
+
+#container5 .prevButton{
+	height:72px;
+	width:68px;
+	position:absolute;
+	background:url('img/buttons.png') no-repeat;
+	top:50%;
+	margin-top:-36px;
+	cursor:pointer;
+	z-index:2000;
+	background-position:left top;
+	left:0
+}
+
+#container5 .prevButton:hover{ background-position:left bottom;left:0;}
+
+#container5 .nextButton{
+	height:72px;
+	width:68px;
+	position:absolute;
+	background:url('img/buttons.png') no-repeat;
+	top:50%;
+	margin-top:-36px;
+	cursor:pointer;
+	z-index:2000;
+	background-position:right top;
+	right:0
+}
+
+#container5 .nextButton:hover{background-position:right bottom;right:0;}
+
+#container5 ul{
+	width:604px;
+	height:453px;
+	list-style:none outside none;
+	position:relative;
+	overflow:hidden;
+}
+
+#container5 li:first-child{
+	display:list-item;
+	position:absolute;
+}
+
+#container5 li{
+	position:absolute;
+	display:none;
+}
+
+
+#buttons{
+	opacity: .2;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+img #float-right { /* for any image tag with class="float-right", do the following... */
+  float: right; /* position it on the right and let other things sit beside it/wrap around it */
+  margin-left: 1em; /* don't let text get to close to the left edge of the image */
+}
+img #rounded { /* for any image with class="rounded", do the following... */
+  border-radius: 100%; /* completely round the edges so it makes a circle shape */
+}
+#border1 {
+  border: solid 5px #80C8B5; /* add a border that matches the background color on anything with class="border1" */
+}
